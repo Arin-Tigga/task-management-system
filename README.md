@@ -187,12 +187,6 @@ Users interact with the frontend to manage tasks. The frontend sends API request
 * Dashboard with task statistics
 * Deployment using cloud platforms
 
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: https://github.com/YOUR-USERNAME
-
 ## 📄 License
 
 This project is intended for educational and development purposes.
